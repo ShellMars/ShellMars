@@ -18,8 +18,6 @@ CyberSecurity engineering student
 ![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-%23092E20?logo=django&style=for-the-badge&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?logo=vue.js&style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/-React-%2357d8fb?logo=react&style=for-the-badge&logoColor=white)
 
 </div>
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="Fire.gif" />
+<img align="right" alt="Bred the penguin chillin' by the fire." width="150" src="Fire.gif" />
