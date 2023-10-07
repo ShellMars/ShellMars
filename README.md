@@ -3,7 +3,7 @@ CyberSecurity engineering student
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://frostming.com)
+[![](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://ShellMars.github.io)
 
 </div>
 
