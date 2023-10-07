@@ -1,6 +1,5 @@
-# Hi, I'm a Shell from Mars  👋
 CyberSecurity engineering student
-<h1 align="center">🦄 Frost Ming 🐍</h1>
+<h1 align="center">🦄Hi, I'm a Shell from Mars👋</h1>
 
 <div align="center">
 
